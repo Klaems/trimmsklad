@@ -1,14 +1,14 @@
-nazv | https://disk.yandex.ru/d/-XynfQcwG0PcDA | Габариты: 10 х 10 х 10 см. Вес 2 кг | р.1; л; с.1; п.2 | Стомость доставки в основные города: мб когда-нибудь
-test1 | test palka1 | | |
-test2 | test palka2 | | |
-test3 | test palka3 | | |
+serial | nazv | https://disk.yandex.ru/d/-XynfQcwG0PcDA | Габариты: 10 х 10 х 10 см. Вес 2 кг | р.1; л; с.1; п.2 | Стомость доставки в основные города: мб когда-нибудь
+1testserial | test1 | test palka1 | | |
+2testserial | test2 | test palka2 | | |
+3testserial | test3 | test palka3 | | |
 --polka--
-nazv | https://disk.yandex.ru/d/-XynfQcwG0PcDA | Габариты: 10 х 10 х 10 см. Вес 2 кг | р.1; л; с.1; п.2 | Стомость доставки в основные города: мб когда-нибудь
-test4 | test palka4 | | |
-test5 | test palka5 | | |
-test6 | test palka6 | | |
+serial | nazv | https://disk.yandex.ru/d/-XynfQcwG0PcDA | Габариты: 10 х 10 х 10 см. Вес 2 кг | р.1; л; с.1; п.2 | Стомость доставки в основные города: мб когда-нибудь
+4testserial | test4 | test palka4 | | |
+5testserial | test5 | test palka5 | | |
+6testserial | test6 | test palka6 | | |
 --polka--
-nazv | https://disk.yandex.ru/d/-XynfQcwG0PcDA | Габариты: 10 х 10 х 10 см. Вес 2 кг | р.1; л; с.1; п.2 | Стомость доставки в основные города: мб когда-нибудь
-test7 | test palka7 | | |
-test8 | test palka8 | | |
-test9 | test palka9 | | |
+serial | nazv | https://disk.yandex.ru/d/-XynfQcwG0PcDA | Габариты: 10 х 10 х 10 см. Вес 2 кг | р.1; л; с.1; п.2 | Стомость доставки в основные города: мб когда-нибудь
+7testserial | test7 | test palka7 | | |
+8testserial | test8 | test palka8 | | |
+9testserial | test9 | test palka9 | | |
